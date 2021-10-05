@@ -1,0 +1,24 @@
+# FIGURE OUTPUT 
+figure.figsize:       6.2, 4.3
+#figure.autolayout:   True
+#figure.constrained_layout.use : True
+#figure.titlesize:     16.5  # fontsize of the axes title
+#figure.subplot.wspace: 0.08  
+font.size:             16
+
+#AXES and LINES: 
+axes.labelsize :   17.5
+lines.markersize : 1
+lines.linewidth :  1.85
+lines.markeredgewidth : 1
+
+#TICKS
+xtick.labelsize : 15.5 #large
+ytick.labelsize : 15.5 #large
+
+#LEGEND
+legend.fontsize      : 15
+legend.handlelength  : 1.1     # the length of the legend lines in fraction of fontsize
+#legend.handleheight  : 0.5     # the height of the legend handle in fraction of fontsize
+legend.borderaxespad : 0.3
+legend.framealpha    : 0.90    # opacity of of legend frame
