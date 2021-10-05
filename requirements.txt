@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib 
+scipy.stats
+random
+scikit-learn
+sklearn.mixture
+seaborn
+IPython.core.display
