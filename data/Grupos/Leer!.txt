@@ -1,0 +1,8 @@
+Los archivos (.txt) que contienen la informacion sobre las orbitas son los OrbitalElements####. 
+Los importantes son el primer y el ultimo archivo.
+
+El orden de la informacion dentro de estos .txt es la siguiente:
+
+Masa(M_earth) | Excentricidad | Semieje mayor (AU) | Semieje menor (AU) | Angulo (Rad) | Angulo (Grad)|
+
+4.83249 ,      0.08862 ,       1.13664 ,            1.13217 ,            -0.33879,      -19.41107,
